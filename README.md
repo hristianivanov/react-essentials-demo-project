@@ -11,10 +11,6 @@ A small React learning app that shows the core concepts every beginner meets fir
 - Simple Vite + React setup
 - Custom favicon that matches the React learning theme
 
-## Screenshots
-
-![React Essentials example tab](docs/screenshots/examples.png)
-
 ## Tech Stack
 
 - React
